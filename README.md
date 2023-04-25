@@ -1,5 +1,6 @@
 # react-firebase-auth-dailytodoes
 
+Practice project. 
 Todo application with authentication, pagination. 
 React, Vite, Firebase.
 
